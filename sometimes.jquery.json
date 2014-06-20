@@ -2,12 +2,12 @@
   "name": "sometimes",
   "version": "0.1.0",
   "title": "Sometimes Fixed Position",
-  "description": "A jQuery plugin that adds meta list items to master list items on hover.",
+  "description": "A jQuery plugin that adds turns any element into fixed position when the screen scrolls.",
   "keywords": [
     "jquery",
     "plugin",
-    "list",
-    "toggle"
+    "sometimes",
+    "fixed"
   ],
   "homepage": "https://github.com/jkup/sometimes",
   "author": {
